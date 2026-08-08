@@ -1,10 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=PAULO%20SILVA&fontSize=55&fontColor=00f7ff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CYBER%20SECURITY%20%7C%20SYSTEMS&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Initializing+PauloSilvaCode...;Software+Developer+%7C+Problem+Solver;Building+systems%2C+APIs+and+digital+products;PHP+%7C+JavaScript+%7C+React+%7C+SQL;Welcome+to+my+digital+workspace." alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=210&section=header&text=PAULO%20SILVA&fontSize=52&fontColor=00f7ff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20WEB%20%7C%20BACKEND%20%7C%20AI%20%7C%20CYBERSECURITY&descAlignY=58&descSize=13&animation=twinkling" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Developer;Web+%26+Backend+Developer;Full-Stack+Developer+in+Progress;AI+%26+Cybersecurity+Enthusiast;Building+real-world+software+solutions." alt="Typing Animation"/>
+
+<br><br>
+
+<a href="https://github.com/PauloSilvaCode">
+<img src="https://img.shields.io/badge/GitHub-PauloSilvaCode-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+<a href="mailto:paulossilvas09@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=PauloSilvaCode&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
 
@@ -12,59 +22,110 @@
 
 ---
 
-## `> SYSTEM.INIT()`
+# `> PROFILE`
+
+## Paulo Silva — Software Developer
+
+**Software Developer** focused on **Web Development, Backend Development, REST APIs, Databases, Artificial Intelligence and Cybersecurity**.
+
+I build practical software solutions using technologies such as **PHP, JavaScript, React, C#, SQL, MySQL, HTML, CSS and Node.js**.
+
+My goal is to transform real-world problems into reliable, maintainable and useful software.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    PAULO SILVA // DEV                       │
-├──────────────────────────────────────────────────────────────┤
-│ STATUS       : ONLINE                                        │
-│ ROLE         : SOFTWARE DEVELOPER                           │
-│ FOCUS        : WEB • BACKEND • SECURITY                     │
-│ STACK        : PHP • JS • REACT • SQL                       │
-│ ENVIRONMENT  : WINDOWS • LINUX                              │
-│ CURRENT MODE : BUILDING                                     │
-└──────────────────────────────────────────────────────────────┘
-```
+ROLE
+Software Developer
 
-> **Building software, solving problems and turning ideas into working systems.**
+PRIMARY AREAS
+Web Development
+Backend Development
+Full-Stack Development
+REST APIs
+Database Development
+Artificial Intelligence
+Cybersecurity
+
+CURRENT LEVEL
+Student / Junior Developer
+
+OPEN TO
+Internships
+Junior Developer Roles
+Software Development Opportunities
+```
 
 ---
 
 # `> ABOUT_ME`
 
-<div align="center">
+I am a technology student and software developer interested in building applications, APIs, backend systems and digital products.
 
-### Hello, I'm Paulo Silva
+My development experience includes **frontend development, backend programming, relational databases, API integration, geolocation applications and software architecture**.
 
-**Software Developer | Technology Student | Problem Solver**
-
-</div>
-
-I'm a software developer and technology student focused on building practical digital solutions.
-
-My interests include **web development, backend engineering, APIs, databases, software architecture and cybersecurity**.
-
-I enjoy taking an idea, understanding the problem behind it and turning it into a functional system.
+I am also developing my knowledge in **Artificial Intelligence and Cybersecurity**, with an interest in applying AI to real-world software products and exploring secure software development practices.
 
 ```javascript
-const paulo = {
+const developer = {
     name: "Paulo Silva",
     username: "PauloSilvaCode",
 
     role: "Software Developer",
 
-    interests: [
+    specialties: [
         "Web Development",
-        "Backend Engineering",
-        "Cyber Security",
-        "Software Architecture",
-        "Digital Products"
+        "Backend Development",
+        "REST APIs",
+        "Database Development",
+        "Software Engineering"
     ],
 
-    mindset: "Build. Learn. Improve. Repeat."
+    interests: [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Cybersecurity",
+        "Software Architecture"
+    ],
+
+    technologies: [
+        "PHP",
+        "JavaScript",
+        "React",
+        "C#",
+        "SQL",
+        "MySQL"
+    ],
+
+    mindset: "Build. Learn. Improve."
 };
 ```
+
+---
+
+# `> WHAT_I_BUILD`
+
+### Web Applications
+
+Developing modern web applications using frontend and backend technologies.
+
+### Backend Systems
+
+Building server-side applications, APIs, CRUD systems and database-driven software.
+
+### REST APIs
+
+Designing and consuming APIs for communication between frontend applications, backend services and external systems.
+
+### Database Applications
+
+Working with relational databases, SQL queries, data modeling and MySQL.
+
+### Artificial Intelligence
+
+Exploring AI-powered applications, LLM integrations, AI APIs and the use of artificial intelligence in software products.
+
+### Cybersecurity
+
+Studying secure software development, web security, authentication, input validation and security testing in authorized environments.
 
 ---
 
@@ -72,7 +133,7 @@ const paulo = {
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=php,js,cs,html,css" />
 
@@ -84,121 +145,138 @@ const paulo = {
 
 <br><br>
 
-### Database & Tools
+### Database & Development Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,githubactions,vscode,windows,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,githubactions,vscode,linux,windows" />
 
 </div>
 
 ---
 
-# `> EXPERTISE`
+# `> TECHNICAL_SKILLS`
+
+| Area                     | Skills                                                                   |
+| ------------------------ | ------------------------------------------------------------------------ |
+| **Programming**          | PHP, JavaScript, C#                                                      |
+| **Frontend**             | HTML5, CSS3, JavaScript, React, Vite, Tailwind CSS                       |
+| **Backend**              | PHP, Node.js, REST APIs                                                  |
+| **Database**             | MySQL, SQL, Relational Databases                                         |
+| **Mobile**               | Ionic                                                                    |
+| **Maps & Geolocation**   | Leaflet, OpenStreetMap                                                   |
+| **Version Control**      | Git, GitHub                                                              |
+| **Development Tools**    | VS Code, Composer, MySQL Workbench                                       |
+| **Software Engineering** | CRUD, API Integration, MVC Concepts, Agile Development                   |
+| **Methodologies**        | Scrum, Kanban, Agile                                                     |
+| **Security**             | Web Security, Secure Development, Security Testing                       |
+| **AI**                   | Artificial Intelligence, Generative AI, LLM Concepts, AI API Integration |
+
+---
+
+# `> FEATURED_PROJECTS`
+
+## `01 — Backend & API Development`
+
+### Portfolio Backend
+
+Backend project focused on **PHP development, REST APIs, database integration and server-side programming**.
+
+**Technologies:**
+
+`PHP` `Composer` `MySQL` `REST API` `SQL`
+
+**Focus:**
+
+* Backend development
+* API development
+* Database integration
+* CRUD operations
+* Server-side programming
+
+---
+
+## `02 — Geolocation & Web Development`
+
+### Explora
+
+Application focused on **geolocation, interactive maps and location-based functionality**.
+
+**Technologies:**
+
+`Ionic` `JavaScript` `Leaflet` `OpenStreetMap`
+
+**Focus:**
+
+* Geolocation
+* Interactive maps
+* Frontend development
+* API integration
+* Mobile/web applications
+
+---
+
+# `> CURRENT_FOCUS`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                         CORE SKILLS                         │
+│                    CURRENT DEVELOPMENT                      │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  FRONTEND       HTML • CSS • JavaScript • React • Vite      │
+│  [01] SOFTWARE ENGINEERING                                 │
+│       Improving architecture and development practices      │
 │                                                             │
-│  BACKEND        PHP • Node.js • REST APIs                   │
+│  [02] ARTIFICIAL INTELLIGENCE                              │
+│       Exploring AI, LLMs and AI-powered applications       │
 │                                                             │
-│  DATABASE       MySQL • SQL • Relational Modeling           │
+│  [03] CYBERSECURITY                                        │
+│       Learning secure development and web security          │
 │                                                             │
-│  MOBILE         Ionic • Hybrid Applications                 │
+│  [04] FULL-STACK DEVELOPMENT                               │
+│       Expanding frontend + backend capabilities             │
 │                                                             │
-│  SECURITY       Web Security • Security Testing             │
-│                                                             │
-│  DEVELOPMENT    Git • GitHub • Agile • Scrum • Kanban       │
+│  [05] DIGITAL PRODUCTS                                     │
+│       Turning ideas into functional software                │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `> TOOLKIT`
+# `> CAREER_INTERESTS`
 
-| Area                   | Technologies                                       |
-| ---------------------- | -------------------------------------------------- |
-| **Frontend**           | HTML5, CSS3, JavaScript, React, Vite, Tailwind CSS |
-| **Backend**            | PHP, Node.js                                       |
-| **Mobile**             | Ionic                                              |
-| **Database**           | MySQL, SQL                                         |
-| **Languages**          | PHP, JavaScript, C#                                |
-| **Maps & Geolocation** | Leaflet, OpenStreetMap                             |
-| **Version Control**    | Git, GitHub                                        |
-| **Development**        | VS Code, Composer                                  |
-| **Methodologies**      | Scrum, Kanban, Agile                               |
-| **Security**           | Web Security, Security Testing                     |
-
----
-
-# `> FEATURED_PROJECTS`
-
-<div align="center">
-
-<a href="https://github.com/PauloSilvaCode">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloSilvaCode&repo=Portfolio-Backend-Paulo-Silva&theme=github_dark&hide_border=true" />
-
-</a>
-
-</div>
-
-### `01 // BACKEND PORTFOLIO`
-
-A backend-focused project created to demonstrate API development, database integration and server-side programming.
+I am interested in opportunities related to:
 
 ```text
-TECHNOLOGIES
-
-PHP
-Composer
-MySQL
-REST API
-```
-
-### `02 // EXPLORA`
-
-A location-based application focused on geolocation and interactive maps.
-
-```text
-TECHNOLOGIES
-
-Ionic
-JavaScript
-Leaflet
-OpenStreetMap
+Software Developer
+Web Developer
+Backend Developer
+Full-Stack Developer
+PHP Developer
+JavaScript Developer
+React Developer
+Junior Software Developer
+Junior Web Developer
+Software Engineering Intern
+Web Development Intern
+Backend Development Intern
+AI Software Development
+Cybersecurity
 ```
 
 ---
 
-# `> CURRENT_MISSION`
+# `> DEVELOPMENT_PHILOSOPHY`
 
-```bash
-$ whoami
-
-PauloSilvaCode
-
-$ cat mission.txt
-
-[✓] Build web applications
-[✓] Develop backend systems
-[✓] Work with relational databases
-[✓] Build and consume APIs
-[✓] Explore cybersecurity
-
-[>] Improve software architecture
-[>] Deepen cybersecurity knowledge
-[>] Build scalable SaaS products
-[>] Contribute to open-source
-[>] Create real-world digital products
-
-$ ./learning_mode.sh
-
-PROCESS: ACTIVE
-STATUS : CONSTANTLY IMPROVING
+```text
+01. Understand the problem
+02. Design the solution
+03. Build the system
+04. Test the implementation
+05. Improve the architecture
+06. Learn from the process
+07. Ship the result
 ```
+
+> **Good software is not only about writing code. It is about solving the right problem.**
 
 ---
 
@@ -216,7 +294,7 @@ STATUS : CONSTANTLY IMPROVING
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PauloSilvaCode&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=PauloSilvaCode&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -236,7 +314,7 @@ STATUS : CONSTANTLY IMPROVING
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PauloSilvaCode&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=PauloSilvaCode&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2"/>
 
 </div>
 
@@ -247,15 +325,15 @@ STATUS : CONSTANTLY IMPROVING
 <div align="center">
 
 <a href="https://github.com/PauloSilvaCode">
-<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-PauloSilvaCode-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 <a href="mailto:paulossilvas09@gmail.com">
-<img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Email-paulossilvas09%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-Paulo%20Silva-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 
 </div>
@@ -265,19 +343,19 @@ STATUS : CONSTANTLY IMPROVING
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║                 SYSTEM STATUS: ONLINE               ║
-║                                                      ║
-║             BUILD • LEARN • CREATE                  ║
-║                                                      ║
-║                  KEEP SHIPPING.                      ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                  PAULOSILVACODE                          ║
+║                                                          ║
+║       SOFTWARE • AI • SECURITY • ENGINEERING             ║
+║                                                          ║
+║                  SYSTEM STATUS: ONLINE                   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-<br>
+**Build. Learn. Improve.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:161b22,100:0d1117&height=110&section=footer" width="100%"/>
 
 </div>
