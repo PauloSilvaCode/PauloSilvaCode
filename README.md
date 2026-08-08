@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=PAULO%20SILVA&fontSize=55&fontColor=00f7ff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20SECURITY%20%7C%20SYSTEMS&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=PAULO%20SILVA&fontSize=55&fontColor=00f7ff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CYBER%20SECURITY%20%7C%20SYSTEMS&descAlignY=58&descSize=15&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+PauloSilvaCode...;Software+Developer+%7C+Problem+Solver;Building+systems+that+turn+ideas+into+products;PHP+%7C+JavaScript+%7C+React+%7C+SQL;Welcome+to+my+digital+workspace." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Initializing+PauloSilvaCode...;Software+Developer+%7C+Problem+Solver;Building+systems%2C+APIs+and+digital+products;PHP+%7C+JavaScript+%7C+React+%7C+SQL;Welcome+to+my+digital+workspace." alt="Typing Animation"/>
 
 <br>
 
@@ -20,13 +20,14 @@
 ├──────────────────────────────────────────────────────────────┤
 │ STATUS       : ONLINE                                        │
 │ ROLE         : SOFTWARE DEVELOPER                           │
-│ FOCUS        : WEB DEVELOPMENT + SYSTEMS + SECURITY         │
-│ ENVIRONMENT  : WINDOWS / LINUX                              │
+│ FOCUS        : WEB • BACKEND • SECURITY                     │
+│ STACK        : PHP • JS • REACT • SQL                       │
+│ ENVIRONMENT  : WINDOWS • LINUX                              │
 │ CURRENT MODE : BUILDING                                     │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> Transformando problemas complexos em sistemas simples, funcionais e escaláveis.
+> **Building software, solving problems and turning ideas into working systems.**
 
 ---
 
@@ -34,27 +35,31 @@
 
 <div align="center">
 
-### Olá, eu sou Paulo Silva
+### Hello, I'm Paulo Silva
+
+**Software Developer | Technology Student | Problem Solver**
 
 </div>
 
-Sou desenvolvedor de software e estudante de Tecnologia da Informação, interessado em desenvolvimento web, arquitetura de sistemas, segurança e criação de produtos digitais.
+I'm a software developer and technology student focused on building practical digital solutions.
 
-Gosto de transformar ideias em aplicações reais, trabalhando principalmente com **PHP, JavaScript, React, SQL e APIs**.
+My interests include **web development, backend engineering, APIs, databases, software architecture and cybersecurity**.
 
-Atualmente estou focado em evoluir minhas habilidades em desenvolvimento, segurança da informação e construção de soluções digitais.
+I enjoy taking an idea, understanding the problem behind it and turning it into a functional system.
 
 ```javascript
 const paulo = {
     name: "Paulo Silva",
     username: "PauloSilvaCode",
+
     role: "Software Developer",
 
-    focus: [
+    interests: [
         "Web Development",
-        "Backend Development",
+        "Backend Engineering",
         "Cyber Security",
-        "Software Architecture"
+        "Software Architecture",
+        "Digital Products"
     ],
 
     mindset: "Build. Learn. Improve. Repeat."
@@ -71,40 +76,64 @@ const paulo = {
 
 <img src="https://skillicons.dev/icons?i=php,js,cs,html,css" />
 
+<br><br>
+
 ### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,ionic" />
 
-### Database
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+### Database & Tools
 
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,windows,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,githubactions,vscode,windows,linux" />
 
 </div>
 
 ---
 
-# `> TOOLKIT`
+# `> EXPERTISE`
 
-| Category            | Technologies                                       |
-| ------------------- | -------------------------------------------------- |
-| **Frontend**        | HTML5, CSS3, JavaScript, React, Vite, Tailwind CSS |
-| **Backend**         | PHP, Node.js                                       |
-| **Mobile**          | Ionic                                              |
-| **Database**        | MySQL, SQL                                         |
-| **Programming**     | PHP, JavaScript, C#                                |
-| **Maps & Geo**      | Leaflet, OpenStreetMap                             |
-| **Version Control** | Git, GitHub                                        |
-| **Methodologies**   | Scrum, Kanban, Agile                               |
-| **Security**        | Web Security, Security Testing                     |
-| **Environment**     | Windows, Linux, VS Code                            |
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                         CORE SKILLS                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  FRONTEND       HTML • CSS • JavaScript • React • Vite      │
+│                                                             │
+│  BACKEND        PHP • Node.js • REST APIs                   │
+│                                                             │
+│  DATABASE       MySQL • SQL • Relational Modeling           │
+│                                                             │
+│  MOBILE         Ionic • Hybrid Applications                 │
+│                                                             │
+│  SECURITY       Web Security • Security Testing             │
+│                                                             │
+│  DEVELOPMENT    Git • GitHub • Agile • Scrum • Kanban       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# `> PROJECTS`
+# `> TOOLKIT`
+
+| Area                   | Technologies                                       |
+| ---------------------- | -------------------------------------------------- |
+| **Frontend**           | HTML5, CSS3, JavaScript, React, Vite, Tailwind CSS |
+| **Backend**            | PHP, Node.js                                       |
+| **Mobile**             | Ionic                                              |
+| **Database**           | MySQL, SQL                                         |
+| **Languages**          | PHP, JavaScript, C#                                |
+| **Maps & Geolocation** | Leaflet, OpenStreetMap                             |
+| **Version Control**    | Git, GitHub                                        |
+| **Development**        | VS Code, Composer                                  |
+| **Methodologies**      | Scrum, Kanban, Agile                               |
+| **Security**           | Web Security, Security Testing                     |
+
+---
+
+# `> FEATURED_PROJECTS`
 
 <div align="center">
 
@@ -116,58 +145,59 @@ const paulo = {
 
 </div>
 
-### `01 // PORTFOLIO BACKEND`
+### `01 // BACKEND PORTFOLIO`
 
-Projeto desenvolvido para demonstrar conhecimentos em desenvolvimento backend, APIs e integração com banco de dados.
+A backend-focused project created to demonstrate API development, database integration and server-side programming.
 
 ```text
-STACK
-├── PHP
-├── Composer
-├── MySQL
-└── REST API
+TECHNOLOGIES
+
+PHP
+Composer
+MySQL
+REST API
 ```
 
 ### `02 // EXPLORA`
 
-Aplicação utilizando geolocalização e mapas para exploração de locais.
+A location-based application focused on geolocation and interactive maps.
 
 ```text
-STACK
-├── Ionic
-├── JavaScript
-├── Leaflet
-└── OpenStreetMap
+TECHNOLOGIES
+
+Ionic
+JavaScript
+Leaflet
+OpenStreetMap
 ```
 
 ---
 
-# `> CURRENT_OBJECTIVES`
+# `> CURRENT_MISSION`
 
 ```bash
 $ whoami
 
 PauloSilvaCode
 
-$ cat objectives.txt
+$ cat mission.txt
 
-[✓] Desenvolver sistemas web
-[✓] Construir APIs e backends
-[✓] Trabalhar com bancos relacionais
-[✓] Explorar segurança da informação
+[✓] Build web applications
+[✓] Develop backend systems
+[✓] Work with relational databases
+[✓] Build and consume APIs
+[✓] Explore cybersecurity
 
-[>] Aprofundar conhecimentos em Cyber Security
-[>] Melhorar arquitetura de software
-[>] Criar produtos SaaS
-[>] Desenvolver projetos open-source
-[>] Transformar ideias em produtos reais
+[>] Improve software architecture
+[>] Deepen cybersecurity knowledge
+[>] Build scalable SaaS products
+[>] Contribute to open-source
+[>] Create real-world digital products
 
-$ ./continue_learning.sh
+$ ./learning_mode.sh
 
-Learning...
-████████████████████████████████████████ 100%
-
-STATUS: RUNNING
+PROCESS: ACTIVE
+STATUS : CONSTANTLY IMPROVING
 ```
 
 ---
@@ -192,7 +222,7 @@ STATUS: RUNNING
 
 ---
 
-# `> ACTIVITY_GRAPH`
+# `> CONTRIBUTION_ACTIVITY`
 
 <div align="center">
 
@@ -202,21 +232,11 @@ STATUS: RUNNING
 
 ---
 
-# `> TROPHIES`
+# `> GITHUB_TROPHIES`
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=PauloSilvaCode&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2" />
-
-</div>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PauloSilvaCode/PauloSilvaCode/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -247,14 +267,16 @@ STATUS: RUNNING
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║              SYSTEM STATUS: ONLINE                  ║
+║                 SYSTEM STATUS: ONLINE               ║
 ║                                                      ║
-║       BUILD  •  LEARN  •  CREATE  •  REPEAT         ║
+║             BUILD • LEARN • CREATE                  ║
+║                                                      ║
+║                  KEEP SHIPPING.                      ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-### `> END_OF_TRANSMISSION`
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
