@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=PAULO%20SILVA&fontSize=55&fontColor=00f7ff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20SECURITY%20%7C%20SYSTEMS&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+PauloSilvaCode...;Software+Developer+%7C+Problem+Solver;Building+systems+that+turn+ideas+into+products;PHP+%7C+JavaScript+%7C+React+%7C+SQL;Welcome+to+my+digital+workspace." alt="Typing Animation"/>
 
 <br>
@@ -28,35 +26,37 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> **"Transformando problemas complexos em sistemas simples, funcionais e escaláveis."**
+> Transformando problemas complexos em sistemas simples, funcionais e escaláveis.
 
 ---
 
-## `> ABOUT_ME`
+# `> ABOUT_ME`
 
 <div align="center">
 
-### Olá, eu sou **Paulo Silva**
+### Olá, eu sou Paulo Silva
 
 </div>
 
-Sou **desenvolvedor de software** e estudante de **Tecnologia da Informação**, interessado em desenvolvimento web, arquitetura de sistemas, segurança e criação de produtos digitais.
+Sou desenvolvedor de software e estudante de Tecnologia da Informação, interessado em desenvolvimento web, arquitetura de sistemas, segurança e criação de produtos digitais.
 
 Gosto de transformar ideias em aplicações reais, trabalhando principalmente com **PHP, JavaScript, React, SQL e APIs**.
 
-Atualmente estou focado em evoluir minhas habilidades em desenvolvimento, segurança da informação e construção de soluções que possam sair do conceito e chegar a usuários reais.
+Atualmente estou focado em evoluir minhas habilidades em desenvolvimento, segurança da informação e construção de soluções digitais.
 
 ```javascript
 const paulo = {
     name: "Paulo Silva",
     username: "PauloSilvaCode",
     role: "Software Developer",
+
     focus: [
         "Web Development",
         "Backend Development",
         "Cyber Security",
         "Software Architecture"
     ],
+
     mindset: "Build. Learn. Improve. Repeat."
 };
 ```
@@ -69,13 +69,13 @@ const paulo = {
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=php,js,cs,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=php,js,cs,html,css" />
 
 ### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,ionic" />
 
-### Databases
+### Database
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
@@ -109,33 +109,16 @@ const paulo = {
 <div align="center">
 
 <a href="https://github.com/PauloSilvaCode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloSilvaCode&repo=Portfolio-Backend-Paulo-Silva&theme=github_dark&hide_border=true" />
-</a>
 
-<a href="https://github.com/PauloSilvaCode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloSilvaCode&repo=Rastro&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloSilvaCode&repo=Portfolio-Backend-Paulo-Silva&theme=github_dark&hide_border=true" />
+
 </a>
 
 </div>
 
-### `01 // RASTRO`
+### `01 // PORTFOLIO BACKEND`
 
-**Plataforma de vendas de imóveis**
-
-Sistema focado em conectar oportunidades imobiliárias, corretores e compradores.
-
-```text
-STACK
-├── React
-├── PHP
-├── MySQL
-├── JavaScript
-└── REST API
-```
-
-### `02 // PORTFOLIO BACKEND`
-
-Projeto desenvolvido para demonstrar conhecimentos em desenvolvimento backend e construção de APIs.
+Projeto desenvolvido para demonstrar conhecimentos em desenvolvimento backend, APIs e integração com banco de dados.
 
 ```text
 STACK
@@ -145,7 +128,7 @@ STACK
 └── REST API
 ```
 
-### `03 // EXPLORA`
+### `02 // EXPLORA`
 
 Aplicação utilizando geolocalização e mapas para exploração de locais.
 
@@ -193,9 +176,9 @@ STATUS: RUNNING
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSilvaCode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PauloSilvaCode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSilvaCode&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSilvaCode&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -213,7 +196,7 @@ STATUS: RUNNING
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloSilvaCode&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloSilvaCode&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -233,7 +216,7 @@ STATUS: RUNNING
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PauloSilvaCode/PauloSilvaCode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PauloSilvaCode/PauloSilvaCode/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -243,16 +226,16 @@ STATUS: RUNNING
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+<a href="https://github.com/PauloSilvaCode">
+<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 <a href="mailto:paulossilvas09@gmail.com">
-<img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
 
-<a href="https://github.com/PauloSilvaCode">
-<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 
 </div>
