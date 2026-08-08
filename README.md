@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
 
-<a href="www.linkedin.com/in/paulosilva09">
+<a href="https://www.linkedin.com/in/paulosilva09">
 <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Silva-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 
